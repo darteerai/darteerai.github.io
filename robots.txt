@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://darteerai.github.io/sitemap-index.xml
+Sitemap: https://darteer.ai/sitemap-index.xml
